@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;1,300&display=swap');
+
+.header-container{
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    display: block;
+    width: 100%;
+}
+
+#titulo{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    text-shadow: 0 0 2px red;
+}
+
+#subtitulo{
+    color: #ffffff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+}
+
+#paragrafo{
+    color: #ffffff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+
+#header-btn{
+    background-color: rgb(17, 185, 17);
+    border: #ffffff;
+    color: #ffffff;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    width: 250px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 70px;
+    padding-top: 15px;
+}
+
+#botao1{
+    background-color: #ffffff;
+}
+
+.btn.btn-primary{
+    background-color: rgb(71, 177, 10);
+    border-color: black;
+}
+
+.card-body{
+    background-color: rgb(179, 110, 6);
+    border-radius: 10px;
+    border: solid black 2px;
+}
+
+.card-container{
+    margin: 10px;
+}
+
+.carousel-container{
+    width: 100%;
+    height: 300px;
+    background-color: aquamarine;
+}
